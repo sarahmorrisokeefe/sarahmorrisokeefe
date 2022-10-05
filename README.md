@@ -9,14 +9,11 @@
 
 <hr>
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmorrisokeefe&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
-
 - 🔭 I’m currently working for [iHeartRadio](https://www.iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪, and the lead for [Codecademy Nashville](https://community.codecademy.com/nashville/) 👩🏻‍💻! 
 
+<hr>
 
 [![@sarahmorrisokeefe's Holopin board](https://holopin.io/api/user/board?user=sarahmorrisokeefe)](https://holopin.io/@sarahmorrisokeefe)
 
