@@ -7,7 +7,7 @@
 
 <hr>
 
-- 🔭 I’m currently working for [iHeartRadio](https://www.iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) 
+- 🔭 I’m currently working for [iHeartRadio](https://www.listen.iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪, and founded [Codecademy Nashville](https://community.codecademy.com/nashville/) with the team at Codecademy 👩🏻‍💻 
 
