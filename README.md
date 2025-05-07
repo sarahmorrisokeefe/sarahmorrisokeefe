@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working for [iHeartRadio](https://www.listen.iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) 
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪, and founded [Codecademy Nashville](https://community.codecademy.com/nashville/) with the team at Codecademy 👩🏻‍💻 
+- ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪, and founded Codecademy Nashville (a meetup focused on bringing all levels of tech workers together) with the team at Codecademy before I moved to Charlotte, NC!👩🏻‍💻 
 
 <hr>
 
