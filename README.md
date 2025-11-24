@@ -7,9 +7,9 @@
 
 <hr>
 
-- 🔭 I’m currently working for [iHeartRadio](https://iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) 
+- 🔭 I’m currently working for [iHeartRadio](https://iheart.com/) as a front-end software engineer using [React](https://reactjs.org/) - see some of my designs on [Codepen](https://codepen.io/sarahmorrisokeefe)!
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪, and founded Codecademy Nashville (a meetup focused on bringing all levels of tech workers together) with the team at Codecademy before I moved to Charlotte, NC!👩🏻‍💻 
+- ⚡ Fun facts: I'm a classically-trained pianist 🎹, currently learning German 🇩🇪 on [Duolingo](https://www.duolingo.com/profile/sarahmokeefe), and founded Codecademy Nashville (a meetup focused on bringing all levels of tech workers together) with the team at Codecademy before I moved to Charlotte, NC!👩🏻‍💻 
 
 <hr>
 
